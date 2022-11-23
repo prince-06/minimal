@@ -1,6 +1,19 @@
-title: Minimal theme
+title: <p align="center"> Nalinikanta </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="">LinkedIn</a> |
+  <a href="https://github.com/prince-06">GitHub</a>
+  
+  <br>   
+  I'm working as a Senior Software Engineer in BOSCH. I have worked on various programming languagge like Java, Python, C++.
+  Worked with various domain like Automative, Telecom etc.
+  I have nearly 6 year of experience.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
